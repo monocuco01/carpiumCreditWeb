@@ -36,11 +36,11 @@ const Footer = () => {
             <h5 className="text-[#E5C100] font-black uppercase tracking-widest text-xs mb-5">Quick Contact</h5>
             <div className="flex items-center gap-3 text-white/70 group">
               <Mail size={18} className="text-[#E5C100]/60 group-hover:text-[#E5C100]" />
-              <p className="text-sm font-semibold">support@carpium.com</p>
+              <p className="text-sm font-semibold">You@carpiumelitesolutionsllc.com</p>
             </div>
             <div className="flex items-center gap-3 text-white/70 group">
               <MapPin size={18} className="text-[#E5C100]/60 group-hover:text-[#E5C100]" />
-              <p className="text-sm font-semibold">Ciénaga, Magdalena</p>
+              <p className="text-sm font-semibold">Rochester NY</p>
             </div>
             <div className="flex items-center gap-3 text-white/70 group">
               <Scale size={18} className="text-[#E5C100]/60 group-hover:text-[#E5C100]" />

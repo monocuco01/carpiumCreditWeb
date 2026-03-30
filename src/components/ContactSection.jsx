@@ -1,8 +1,8 @@
 import React from 'react';
 
 const ContactSection = () => {
-  const phoneNumber = "3135491737"; 
-  const whatsappLink = `https://wa.me/57${phoneNumber}?text=Hola!%20Vi%20los%20resultados%20en%20la%20web%20y%20quiero%20mi%20análisis%20de%20crédito.`;
+  const phoneNumber = "5855367084"; 
+  const whatsappLink = `https://wa.me/1${phoneNumber}?text=Hola!%20Vi%20los%20resultados%20en%20la%20web%20y%20quiero%20mi%20análisis%20de%20crédito.`;
   const instagramLink = "https://instagram.com/carpium_elite"; 
 
   return (
@@ -36,7 +36,7 @@ const ContactSection = () => {
                 </div>
                 <div className="text-left">
                   <p className="text-[10px] text-gray-500 uppercase font-black">Email Us</p>
-                  <p className="font-bold">support@carpium.com</p>
+                  <p className="font-bold">You@carpiumelitesolutionsllc.com</p>
                 </div>
               </div>
             </div>
@@ -90,7 +90,7 @@ const ContactSection = () => {
                 </div>
                 <div className="text-left">
                   <h4 className="text-white font-black text-2xl tracking-tighter">Direct Call</h4>
-                  <p className="text-[#E5C100] font-black text-xl tracking-widest pt-1">+57 {phoneNumber}</p>
+                  <p className="text-[#E5C100] font-black text-xl tracking-widest pt-1">+1 {phoneNumber}</p>
                 </div>
               </div>
             </div>
