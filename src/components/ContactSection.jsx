@@ -3,7 +3,7 @@ import React from 'react';
 const ContactSection = () => {
   const phoneNumber = "5855367084"; 
   const whatsappLink = `https://wa.me/1${phoneNumber}?text=Hola!%20Vi%20los%20resultados%20en%20la%20web%20y%20quiero%20mi%20análisis%20de%20crédito.`;
-  const instagramLink = "https://instagram.com/carpium_elite"; 
+  const instagramLink = "https://www.instagram.com/carpium_credit/"; 
 
   return (
     <section id="contact" className="bg-[#001A33] py-24 px-6 relative overflow-hidden">
